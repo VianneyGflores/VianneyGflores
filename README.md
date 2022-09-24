@@ -8,7 +8,7 @@
 
 ###Connect with me:
 
-[<img align="left" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />][youtube]
+[<img align="left" width="75px" src="https://commons.wikimedia.org/wiki/File:YouTube_Logo_2017.svg#/media/File:YouTube_full-color_icon_(2017).svg" />][youtube]
 [<img align="left" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" />][facebook]
 <br />
 <br />
