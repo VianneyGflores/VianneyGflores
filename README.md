@@ -9,7 +9,7 @@
 ###Connect with me:
 
 [<img align="left" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />][youtube]
-[<img align="left" width="75px" src="file:///C:/Users/Personal/Downloads/facebook.svg" />][facebook]
+[<img align="left" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" />][facebook]
 <br />
 <br />
 
