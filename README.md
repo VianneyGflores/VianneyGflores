@@ -3,17 +3,18 @@
 ## I'm a solo parent, mother, artist and soon to be developer!
 - 🌱Im currently enjoying learning everything 
 - 👀 Im a Degree holder of Bachelor of Science in Information Technology
-= 💞️Im looking to collaborate with other developers and artist.
+- 💞️Im looking to collaborate with other developers and artist.
 - Fun facts: I love to draw, great fan of music and arts.
 
-###📫 Connect with me:
+###Connect with me:
 
 [<img align="left" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />][youtube]
-
-<br />-
+[<img align="left" width="75px" src="#1877F2" />][facebook]
+<br />
 <br />
 
 [youtube]:https://www.youtube.com/channel/UCAyLEOCtqnD1_I18SPpCI2w
+[facebook]:https://www.facebook.com/vianney.flores.353803/
 
 
 <!---
